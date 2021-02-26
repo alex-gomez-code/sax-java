@@ -1,0 +1,7 @@
+<!ELEMENT karasuno (miembro*)>
+<!ELEMENT miembro (nombre, numero, posicion, year, estado)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT posicion (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT estado (#PCDATA)>

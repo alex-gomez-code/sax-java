@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE karasuno SYSTEM "prueba.dtd">
+<karasuno>
+  <miembro>
+    <nombre>Keishin Ukai</nombre>
+    <numero>Sin número</numero>
+    <posicion>Entrenador</posicion>
+    <year>Graduado</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Ittetsu Takeda</nombre>
+    <numero>Sin número</numero>
+    <posicion>Consejero Escolar</posicion>
+    <year>Profesor</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Hitoka Yachi</nombre>
+    <numero>Sin número</numero>
+    <posicion>Manager</posicion>
+    <year>Primero</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Yū Nishinoya</nombre>
+    <numero>4</numero>
+    <posicion>Libero</posicion>
+    <year>Segundo</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Ryūnosuke Tanaka</nombre>
+    <numero>5</numero>
+    <posicion>Punta Receptor</posicion>
+    <year>Segundo</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Chikara Ennoshita</nombre>
+    <numero>6</numero>
+    <posicion>Capitán / Punta Receptor</posicion>
+    <year>Segundo</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Hisashi Kinoshita</nombre>
+    <numero>7</numero>
+    <posicion>Punta Receptor</posicion>
+    <year>Segundo</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Kazuhito Narita</nombre>
+    <numero>8</numero>
+    <posicion>Bloqueador Central</posicion>
+    <year>Segundo</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Tobio Kageyama</nombre>
+    <numero>9</numero>
+    <posicion>Armador</posicion>
+    <year>Primero</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Shōyō Hinata</nombre>
+    <numero>10</numero>
+    <posicion>Bloqueador Central</posicion>
+    <year>Primero</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Kei Tsukishima</nombre>
+    <numero>11</numero>
+    <posicion>Bloqueador Central</posicion>
+    <year>Primero</year>
+    <estado>Activo</estado>
+  </miembro>
+  <miembro>
+    <nombre>Tadashi Yamaguchi</nombre>
+    <numero>12</numero>
+    <posicion>Bloqueador Central / Sacador</posicion>
+    <year>Primero</year>
+    <estado>Activo</estado>
+  </miembro>
+</karasuno>
